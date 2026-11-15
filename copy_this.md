@@ -1,6 +1,6 @@
 # RESTful Front-End Web App:
 
-## Project Information
+## Project Title - 
 
 **Team Members:**
 
