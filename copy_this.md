@@ -1,7 +1,5 @@
 # RESTful Front-End Web App: Student Project
 
-## Project Information
-
 **Team Members:**
 - 
 - 
@@ -9,9 +7,14 @@
 
 **Walk-Through Video Link:** [Add your video link here]
 
-**Example to Follow:** This project uses the **Clubs & Students** domain. Clubs are the primary resource; students are the related resource. You can swap these out for your own idea (Movies & Directors, Recipes & Ingredients, Sports Teams & Players, etc.).
+**Include an image of your hand-drawn or digital wireframe sketch here:**
+[Add wireframe image or description]
 
 ---
+---
+---
+
+
 
 ## Build Your App: Step-by-Step Checklist & Rubric
 
