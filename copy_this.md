@@ -1,4 +1,4 @@
-# RESTful Front-End Web App: Student Project
+# RESTful Front-End Web App:
 
 ## Project Information
 
