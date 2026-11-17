@@ -5,9 +5,15 @@
 **Team Members:**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Kris
 - Quin
 - Miranda
+=======
+- Quinn     
+- Miranda    
+- Kris
+>>>>>>> e990b9c (serzdfgvh)
 =======
 - Quinn     
 - Miranda    
@@ -20,9 +26,14 @@
 
 **Describe your app layout here or paste/link an image of your hand-drawn or digital wireframe:**
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 - https://6aea96643d3dd3d37be6cb9a.mockapi.io ? 
 - deezre api hear meout https://developers.deezer.com/api 
+=======
+SoundBoard and Button
+- we could later add sounds but rn just add the buttons and view pages 
+>>>>>>> e990b9c (serzdfgvh)
 =======
 SoundBoard and Button
 - we could later add sounds but rn just add the buttons and view pages 
