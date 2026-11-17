@@ -4,18 +4,29 @@
 
 **Team Members:**
 
+<<<<<<< HEAD
 - Kris
 - Quin
 - Miranda
+=======
+- Quinn     
+- Miranda    
+- Kris
+>>>>>>> e990b9c (serzdfgvh)
 
 **Walk-Through Video Link:**
 - [Add your video link here]
 
 
 **Describe your app layout here or paste/link an image of your hand-drawn or digital wireframe:**
+<<<<<<< HEAD
 
 - https://6aea96643d3dd3d37be6cb9a.mockapi.io ? 
 - deezre api hear meout https://developers.deezer.com/api 
+=======
+SoundBoard and Button
+- we could later add sounds but rn just add the buttons and view pages 
+>>>>>>> e990b9c (serzdfgvh)
 
 
 
@@ -29,8 +40,8 @@
 - [ ] **Mock API:** Create an account on mockapi.io and set up two resources with at least 3 sample records each.
 - [ ] **API Constants:** Copy your base URL and add these constants to the top of all your `.js` files:
   ```js
-  const API_ORIGIN = "https://XXXXXXXX.mockapi.io";
-  const API_URL = `${API_ORIGIN}/api/v1`;
+  const API_ORIGIN = "https://6afcab10892984c4494bd9fb.mockapi.io";
+  const API_URL = `${API_ORIGIN}`;
   ```
 
 ---

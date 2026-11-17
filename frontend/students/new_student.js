@@ -1,5 +1,5 @@
-const API_ORIGIN = "https://6aea96643d3dd3d37be6cb9a.mockapi.io";
-const API_URL = `${API_ORIGIN}/api/v1`;
+  const API_ORIGIN = "https://6afcab10892984c4494bd9fb.mockapi.io";
+  const API_URL = `${API_ORIGIN}`;
 
 const form = document.getElementById("student_form");
 
