@@ -4,9 +4,9 @@
 
 **Team Members:**
 
-- 
-- 
-- 
+- Kris
+- Quin
+- Miranda
 
 **Walk-Through Video Link:**
 - [Add your video link here]
@@ -14,6 +14,7 @@
 
 **Describe your app layout here or paste/link an image of your hand-drawn or digital wireframe:**
 
+- https://6aea96643d3dd3d37be6cb9a.mockapi.io ? 
 - deezre api hear meout https://developers.deezer.com/api 
 
 
