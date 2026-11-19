@@ -14,7 +14,7 @@
 
 **Describe your app layout here or paste/link an image of your hand-drawn or digital wireframe:**
 
-- 
+- deezre api hear meout https://developers.deezer.com/api 
 
 
 
