@@ -1,12 +1,13 @@
-const API_ORIGIN = "https://6aea96643d3dd3d37be6cb9a.mockapi.io";
-const API_URL = `${API_ORIGIN}/api/v1`;
+const API_ORIGIN = "https://6afcab10892984c4494bd9fb.mockapi.io";
+const API_URL = `${API_ORIGIN}`;
 
 let all_clubs = [];
 
 async function fetchClubs() {
-  const response = await fetch(`${API_URL}/clubs`);
+  const response = await fetch(`${API_URL}/Soundboard`);
   all_clubs = await response.json();
   console.log(all_clubs);
+
   for(let club of all_clubs){
       document.getElementById('clubs').innerHTML +=
     //   Card populated by API data
